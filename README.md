@@ -1,3 +1,6 @@
+## 🔗 View Dashboard
+**[→ View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/CustomerSalesInsights/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 # customer-sales-insight-tableau
 
 Customer Sales analytics project that builds an ELT pipeline from raw CSVs into BigQuery and produces gold tables useful for tableau BI dashboards.
